@@ -1,4 +1,4 @@
-Hello Earthlings 👋 I'm Deca
+Hello gentlemen 👋 I'm Deca
 =====================
 
 Developer. Freelance. Startup and blockchain enthusiast
