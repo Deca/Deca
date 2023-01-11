@@ -4,10 +4,15 @@ Hi 👋 My name is Deca
 Developer. Freelance. Startup and blockchain enthusiast
 -------------------------------------------------------
 
-Fullstack Web Developer with good knowledge of front and back-end techniques and passion for code and tech I build web applications and microservices from scratch and love working on pocs around new technologies. My preferred stacks are: Javascript ESx, Vue, Tailwind for the frontend and Laravel, Nodejs, Mysql, Postgresql on the backend side Keen interest in blockchain platforms specialized in machine-to-machine interactions like IOTA. Focusing on Smart contracts, web-based DApps development and decentralized solutions. Occasionally Python pique my interest, especially for hardware interfacing and data analysis. In the past worked extensively on web projects with open source tools (WordPress, Joomla, Magento, Drupal) During my past years in web-agencies I had the chance to manage multiple side tasks at a basic level: \*nix servers management, SEO optimization, project management, social media marketing campaigns. Skilled at hardware maintenance and repair for every type of pc, notebook, mac. Crypto enthusiast - experienced in blockchain technology, researches, cryptocurrency trading and mining Often bouncing across multiple disciplines and generally getting passionate into whatever lets me learn new skills and improve the way I work.
+I'm a Fullstack Web Developer with good knowledge of front and back-end techniques and passion for code and tech
+I build web applications and microservices from scratch and love working on pocs around new technologies.
+My preferred stacks are: Javascript ESx, Vue, Tailwind for the frontend and Laravel, Nodejs, Mysql, Postgresql on the backend side
+Keen interest in blockchain platforms specialized in machine-to-machine interactions like IOTA. Focusing on Smart contracts, web-based DApps development and decentralized solutions.
+Crypto enthusiast - experienced in blockchain technology, researches, cryptocurrency trading and mining
+Boucing often across multiple disciplines and generally getting passionate into whatever lets me learn new skills and improve the way I work.
 
 * 🌍  I'm based in Italy
-* 🧠  I'm learning Composition API
+* 🧠  I'm learning Vue 3 new features
 * 🤝  I'm open to collaborating on anything blockchain or crypto related
 
 ### Skills
