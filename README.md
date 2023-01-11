@@ -4,11 +4,10 @@ Hello Earthlings 👋 I'm Deca
 Developer. Freelance. Startup and blockchain enthusiast
 -------------------------------------------------------
 
-Fullstack Web Developer with good knowledge of front and back-end techniques and passion for code and tech I build web applications and microservices from scratch and love working on pocs around new technologies. 
-
-My preferred stacks are: Javascript ESx, Vue, Tailwind for the frontend and Laravel, Nodejs, Mysql, Postgresql on the backend side 
-Keen interest in blockchain platforms specialized in machine-to-machine interactions like IOT, web-based DApps development and decentralized solutions. 
-Crypto enthusiast - experienced in blockchain technology, researches, cryptocurrency trading and mining
+Fullstack Web Developer with good knowledge of front and back-end techniques and passion for code and tech I build web applications and microservices from scratch and love working on pocs around new technologies. <br />
+My preferred stacks are: Javascript ESx, Vue, Tailwind for the frontend and Laravel, Nodejs, Mysql, Postgresql on the backend side <br />
+Keen interest in blockchain platforms specialized in machine-to-machine interactions like IOT, web-based DApps development and decentralized solutions. <br />
+Crypto enthusiast - experienced in blockchain technology, researches, cryptocurrency trading and mining<br />
 Boucing often across multiple disciplines and generally getting passionate into whatever lets me learn new skills and improve the way I work.
 
 * 🌍  I'm based in Italy
