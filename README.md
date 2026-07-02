@@ -10,9 +10,9 @@ Keen interest in blockchain platforms specialized in machine-to-machine interact
 Crypto enthusiast - experienced in blockchain technology, researches, cryptocurrency trading and mining<br />
 Boucing often across multiple disciplines and generally getting passionate into whatever lets me learn new skills and improve the way I work.
 
-* 🌍  I'm based in Italy
-* 🧠  I'm learning Composition API
-* 🤝  I'm open to collaborating on anything blockchain or crypto related
+* 🌍  Italy 
+* 🧠  Right now learning data analysis for quants 
+* 🤝  Open to collaborating on anything blockchain or crypto related
 
 ### Skills
 
